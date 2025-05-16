@@ -24,8 +24,8 @@ This project is an AI-powered Blog Generator that allows users to:
 📥 Installation Guide
 🔹 1️⃣ Clone the Repository
 
-git clone https://github.com/sneha2835/AI_Blog_Generation.git
-cd AI_Blog_Generation
+git clone https://github.com/Supriyadasari04/AI-Blog-Generation.git
+cd AI-Blog-Generation
 
 🔹 2️⃣ Set Up Virtual Environment
 For Windows
@@ -118,8 +118,8 @@ streamlit run app.py
 Feel free to fork, improve, and submit pull requests! 🚀
 
 📞 Contact
-📧 Email: snehakamatam28@example.com
-🌐 GitHub: github.com/sneha2835
+📧 Email: dasarisupriya3012@gmail.com
+🌐 GitHub: github.com/Supriyadasari04
 
 📌 Create .gitignore
 To avoid pushing unnecessary files, create a .gitignore file:
@@ -142,7 +142,7 @@ git add .
 git commit -m "Initial commit: Added full project with AI model"
 4️⃣ Link to your GitHub repository
 
-git remote add origin https://github.com/sneha2835/AI_Blog_Generation.git
+git remote add origin https://github.com/Supriyadasari04/AI-Blog-Generation.git
 5️⃣ Push code to GitHub
 
 git branch -M main
